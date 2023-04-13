@@ -184,7 +184,6 @@ a{
     0%{
         filter:grayscale(0);
         transform:scale(1);
-        
     }
 
     50%{
